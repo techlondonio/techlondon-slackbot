@@ -50,7 +50,7 @@ custom:
 provider:
   name: aws
   runtime: nodejs4.3
-  profile: serverless
+  profile: techlondon-slackbot
   region: eu-west-2
   iamRoleStatements:
     - Effect: Allow
